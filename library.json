@@ -1,0 +1,20 @@
+{
+    "name": "SevyCore",
+    "version": "0.1.0",
+    "description": "Sevy functions library for Espressif ESP8266 microcontroller, to help build a firmware iot devices",
+    "keywords": "wifi,iot,AES,esp,esp8266,Encryption,Sevy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YvesYuri/SevyCore"
+    },
+    "authors": {
+        "name": "Yves Yuri",
+        "email": "yyosilva@hotail.com",
+        "url": "https://github.com/YvesYuri"
+    },
+    "license": "Apache-2.0",
+    "frameworks": "Arduino",
+    "platforms": "espressif8266",
+    "headers": ["SevyCore.h", "SevyEncryption.h", "SevyEncryptionBytes.h", "ConfigurationModelData.cpp"]
+
+}
